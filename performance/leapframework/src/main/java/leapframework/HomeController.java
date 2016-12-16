@@ -5,6 +5,6 @@ package leapframework;
  */
 public class HomeController {
     public String index(){
-        return "Hello World";
+        return "Hello World!";
     }
 }
